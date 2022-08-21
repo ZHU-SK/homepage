@@ -2,17 +2,17 @@
 # ICON Settings 图标设置
 # ---------------------------------------------------------------
 
-favicon: /img/fluid.jpeg
-avatar: /img/fluid.jpeg
+favicon: /img/fluid1.png
+avatar: /img/fluid1.png
 apple_icon:
   # iPhone 57x57 
-  iphone: /img/fluid.jpeg
+  iphone: /img/fluid1.png
   # iPad 72x72
-  ipad: /img/fluid.jpeg
+  ipad: /img/fluid1.png
   # Retina iPhone 114x114
-  iphone_hd: /img/fluid.jpeg
+  iphone_hd: /img/fluid1.png
   # Retina iPad 144x144
-  ipad_hd: /img/fluid.jpeg
+  ipad_hd: /img/fluid1.png
   
 # ---------------------------------------------------------------
 # Style Settings 样式设置
