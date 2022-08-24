@@ -4,7 +4,7 @@
     <%- config.title %> &copy; <%- 2022 %> - <%- 2022 %>
     <% if (theme.count == true){ %>
     <span> / </span>
-    <%- symbolsCountTotal(site) %>
+     Symbols Count Total:  <%- symbolsCountTotal(site) %>
     <% } %>
     <% if (theme.icp){ %>
     <span> / </span>
@@ -12,7 +12,7 @@
     <% } %>
     <% if (theme.busuanzi == true){ %>
     <span> / </span>
-    <span id="busuanzi_container_site_pv">PV <span id="busuanzi_value_site_pv"></span></span>
+	<span id="busuanzi_container_site_pv">PV <span id="busuanzi_value_site_pv"></span></span>
     <% } %>
     <span> / Theme</span>
     Type
@@ -27,7 +27,7 @@
   <% if (theme.cdn.use == 'vercel'){ %>
   <section class="footer-logo">
     <a href="https://vercel.com/" target="_blank">
-      <img style="padding-top: 12px; max-height: 25px !important; opacity: 0.4;" src="<%- url_for(theme.cdn.vercel) %>"></a>
-  </section>
+      <img style="padding-top: 12px; max-height: 25px !important; opacity: 0.4;" src="<%- url_for(theme.cdn.vercel) %>"></a>  
+  </section> 
   <% } %>
 </footer>

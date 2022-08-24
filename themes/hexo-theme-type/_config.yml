@@ -147,7 +147,7 @@ comment:
     serverurl: https://iceky-comment.vercel.app/
 
 # Busuanzi Count 不蒜子计数
-busuanzi: false
+busuanzi: true
 
 # Google Analytics 谷歌分析
 # cloudflare-workers-async-google-analytics
