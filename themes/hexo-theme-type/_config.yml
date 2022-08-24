@@ -51,9 +51,7 @@ nav:
   关于:
     link: /about/
     icon: person
-  搜索:
-    link: /search.html/
-    icon: search
+
 
 
 # Cover Links 封面底部链接
