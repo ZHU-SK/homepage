@@ -162,7 +162,7 @@ google_analytics:
   use: gtag
   ga_id: 
   ga_api: 
-  gtag_id: G-HFH67WJVKQ
+  gtag_id: G-6S4401FN4E
 
 # chart.js
 # https://www.chartjs.org/
