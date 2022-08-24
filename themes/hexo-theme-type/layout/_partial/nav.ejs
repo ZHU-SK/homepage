@@ -38,6 +38,9 @@
   <a class="itp-float-bar-item" href="<%= url_for() %>">
     <span class="material-icons-outlined">home</span>
   </a>
+  <a class="itp-float-bar-item" href="/search.html">
+    <span class="material-icons-outlined">search</span>
+  </a>
   <% if (page.layout !=='post' ){ %>
   <!--只在 **非文章** 页面显示-->
   <% for (var i in theme.nav) { %>
@@ -52,6 +55,11 @@
     <span class="material-icons-outlined">format_align_left</span>
   </a>
   <%} else if (page.layout =='post' ){ %>
+
+
+
+
+
   <!--只在 **文章** 页面显示-->
   <a class="itp-float-bar-item" onclick="scrollto(comment)">
     <span class="material-icons-outlined">textsms</span>
