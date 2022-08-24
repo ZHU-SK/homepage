@@ -20,7 +20,7 @@ apple_icon:
 
 # Schemes
 # Use column ｜ m3
-schemes: m3
+schemes: column
 
 # Fonts
 # Use LXGW ｜ 
@@ -51,6 +51,10 @@ nav:
   关于:
     link: /about/
     icon: person
+  搜索:
+    link: /search/
+    icon: search
+
 
 # Cover Links 封面底部链接
 cover_links:
