@@ -57,9 +57,7 @@ nav:
   工作:
     link: /work/
     icon: work
-  简历:
-    link: /resume/
-    icon: person
+
 
 
 
@@ -70,7 +68,7 @@ cover_links:
   - title: Links
     link: /links/
   - title: Gallery
-    link: /gallery/
+    link: /gallery2/
   - title: Type docs
     link: /type/
   - title: RSS Feed
