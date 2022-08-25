@@ -51,6 +51,17 @@ nav:
   关于:
     link: /about/
     icon: person
+  搜索:
+    link: /messageboard/
+    icon: note_alt
+  工具:
+    link: /tools/
+    icon: build
+  工作:
+    link: /work/
+    icon: work
+
+
 
 
 
