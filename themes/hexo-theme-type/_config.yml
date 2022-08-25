@@ -57,6 +57,9 @@ nav:
   工作:
     link: /work/
     icon: work
+  简历:
+    link:/resume/
+    icon: person
 
 
 
