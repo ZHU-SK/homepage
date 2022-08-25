@@ -51,15 +51,15 @@ nav:
   关于:
     link: /about/
     icon: person
-  搜索:
+  留言板:
     link: /messageboard/
     icon: note_alt
-  工具:
-    link: /tools/
-    icon: build
   工作:
     link: /work/
     icon: work
+  留言板:
+    link: /messageboard.html/
+    icon: note_alt
 
 
 
