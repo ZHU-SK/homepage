@@ -90,7 +90,7 @@ social_link:
 # Footer Settings 页脚设置
 # ---------------------------------------------------------------
 
-start_time: 2016
+start_time: 2022
 # 'count' need run 'npm install hexo-symbols-count-time --save'
 count: true
 icp: 
