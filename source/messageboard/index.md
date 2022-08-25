@@ -1,4 +1,5 @@
 ---
 layout: post
-title: 留言板
+title: Message Board
 ---
+Please leave a message.
