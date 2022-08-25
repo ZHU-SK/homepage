@@ -93,7 +93,7 @@ icp:
 # CDN LOGO
 # Use upyun | vercel
 cdn: 
-  use: vercel
+  use: 
   upyun: '../img/upyun.png'
   vercel: '../img/vercel-logotype-dark.svg'
 
