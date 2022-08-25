@@ -1,7 +1,7 @@
 <!-- Footer -->
 <footer class="mdui-text-center itp-footer">
   <section class="footer-info">
-    <%- config.title %> &copy; <%- 2022 %> - <%- 2022 %>
+    <%- config.title %> &copy; <%- theme.start_time %> - <%= (new Date()).getFullYear() %>
     <% if (theme.count == true){ %>
     <span> / </span>
      Word Count Total:  <%- symbolsCountTotal(site) %>
