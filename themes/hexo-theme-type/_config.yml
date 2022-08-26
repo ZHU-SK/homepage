@@ -57,10 +57,6 @@ nav:
   歌单:
     link: /playlist/
     icon: queue_music
-  歌单:
-    link: /music/
-    icon: queue_music
-
 
 
 
