@@ -72,6 +72,9 @@ index_generator:
   per_page: 15
   order_by: -date
 
+aplayer:
+  meting: true
+  
 # Category & Tag
 default_category: uncategorized
 category_map:

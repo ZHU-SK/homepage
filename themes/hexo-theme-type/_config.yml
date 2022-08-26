@@ -54,6 +54,10 @@ nav:
   留言板:
     link: /messageboard/
     icon: note_alt
+  歌单:
+    link: /playlist/
+    icon: queue_music
+
 
 
 
