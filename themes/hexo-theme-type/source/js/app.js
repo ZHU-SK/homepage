@@ -61,6 +61,19 @@ window.onscroll = function () {
   }
 };
 
+m3righttop = 470
+window.onscroll = function () {
+  var howFar = document.documentElement.scrollTop || document.body.scrollTop;
+  if (howFar > m3righttop & whetherChange == 0) {
+    $("#column-toc-m3").removeClass("itp-toc-m3-sidetop"); //m3 样式中，滚动影响toc菜单定位方式
+    whetherChange = 1;
+  };
+  if (howFar <= m3righttop & whetherChange == 1) {
+    $("#column-toc-m3").addClass("itp-toc-m3-sidetop"); //m3 样式中，滚动影响toc菜单定位方式
+    whetherChange = 0;
+  }
+};
+
 /*
 
 $(".toc li").replaceWith(function () {
