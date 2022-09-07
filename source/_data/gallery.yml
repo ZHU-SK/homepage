@@ -1,6 +1,6 @@
 人间只此春:
   date: 2022-04-05
-  #cover: 'https://imgur.lzmun.com/picgo/after2022/202204091200730.png_itp'
+  cover: 'https://imgur.lzmun.com/picgo/after2022/202204091200730.png_itp'
   img:
     - 'https://i0.hdslb.com/bfs/album/01d9b587b347b56aa2bc9ba4c6a7dd30fe61962f.jpg'
     - 'https://imgur.lzmun.com/picgo/after2022/2022-04-04-DSC09329%20大.jpeg_bloggallery'
@@ -31,9 +31,14 @@
     - https://imgur.lzmun.com/picgo/after2022/202204091210736.jpeg_bloggallery
 夏天是盐汽水的味道:
   date: 2020-05-24
-  #cover: https://imgur.lzmun.com/picgo/after2022/202204091202245.png_itp
+  cover: https://imgur.lzmun.com/picgo/after2022/202204091202245.png_itp
   img:
     - https://imgur.lzmun.com/picgo/after2022/202204091000550.jpeg_bloggallery
     - https://imgur.lzmun.com/picgo/after2022/202204091000006.jpeg_bloggallery
     - https://imgur.lzmun.com/picgo/after2022/202204091001042.jpeg_bloggallery
     - https://imgur.lzmun.com/picgo/after2022/202204091001835.jpeg_bloggallery
+Test3:
+  date: 2020-05-24
+  cover: https://i0.hdslb.com/bfs/album/01d9b587b347b56aa2bc9ba4c6a7dd30fe61962f.jpg
+  img:
+    - https://i0.hdslb.com/bfs/album/01d9b587b347b56aa2bc9ba4c6a7dd30fe61962f.jpg
