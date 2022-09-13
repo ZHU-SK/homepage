@@ -9,7 +9,7 @@ excerpt: Hazy is another elegant.
 abbrlink: 1111
 permalink: Defocus/
 cover: https://s2.loli.net/2022/09/13/j5pyS8W7PLaHtrs.jpg
-date: 2022-09-11 23:49:35
+date: 2022-09-12 20:39:35
 ---
 A set of defocus photos are illustrated, rangefinder is too hard to focus, and there are countless times when making perfect composition, nice bokeh, along with the cozy atmosphere, however, I almost lost every shot because of the unskilled manual focus and the insensitive distance perception. 
 
