@@ -11,7 +11,7 @@ permalink: Defocus/
 cover: https://s2.loli.net/2022/09/13/j5pyS8W7PLaHtrs.jpg
 date: 2022-09-11 23:49:35
 ---
-A set of defocus photos are illustrated, rangefinder is too hard to focus, and there are countless times when making perfect composition, nice bokeh, along with the cozy atmosphere. However, I almost lose every shot because of the unskilled manual focus and the insensitive distance perception. 
+A set of defocus photos are illustrated, rangefinder is too hard to focus, and there are countless times when making perfect composition, nice bokeh, along with the cozy atmosphere, however, I almost lost every shot because of the unskilled manual focus and the insensitive distance perception. 
 
 All the photos are captured by Leica M11 with 50mm ƒ /1.4 lens, and now available on <mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/En3qhKsmPhtNiW-51bs1ieQBaXhCWn5jZGS_tR1cyoKiBw?e=v556P9)</mark>
 
