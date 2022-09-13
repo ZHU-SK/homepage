@@ -5,7 +5,7 @@ categories: 采風
 tags:
  - Photography
  - HongKong
-excerpt: Wish you a happy Mid Autumn Festival.
+excerpt: Hazy is another elegant.
 abbrlink: 1111
 permalink: Defocus/
 cover: https://s2.loli.net/2022/09/13/j5pyS8W7PLaHtrs.jpg
