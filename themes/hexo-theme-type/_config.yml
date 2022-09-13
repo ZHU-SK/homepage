@@ -80,10 +80,10 @@ social_link:
   use: true
   # 在这里开启微信二维码
   wechat_personal: 
-    switch: true
+    switch: false
     src: https://imgur.lzmun.com/picgo/20200324090429.jpg
   wechat_public: 
-    switch: true
+    switch: false
     src: https://open.weixin.qq.com/qr/code?username=itypen
 
 # ---------------------------------------------------------------
