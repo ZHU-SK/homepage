@@ -2,17 +2,17 @@
 # ICON Settings 图标设置
 # ---------------------------------------------------------------
 
-favicon: /img/fluid.jpeg
-avatar: /img/fluid1.jpg
+favicon: https://i0.hdslb.com/bfs/album/0b516de9653700c787d5071d316a987229dad132.jpg
+avatar: https://i0.hdslb.com/bfs/album/0b516de9653700c787d5071d316a987229dad132.jpg
 apple_icon:
   # iPhone 57x57 
-  iphone: /img/fluid.jpeg
+  iphone: https://i0.hdslb.com/bfs/album/0b516de9653700c787d5071d316a987229dad132.jpg
   # iPad 72x72
-  ipad: /img/fluid.jpeg
+  ipad: https://i0.hdslb.com/bfs/album/0b516de9653700c787d5071d316a987229dad132.jpg
   # Retina iPhone 114x114
-  iphone_hd: /img/fluid.jpeg
+  iphone_hd: https://i0.hdslb.com/bfs/album/0b516de9653700c787d5071d316a987229dad132.jpg
   # Retina iPad 144x144
-  ipad_hd: /img/fluid.jpeg
+  ipad_hd: https://i0.hdslb.com/bfs/album/0b516de9653700c787d5071d316a987229dad132.jpg
   
 # ---------------------------------------------------------------
 # Style Settings 样式设置
