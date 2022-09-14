@@ -80,7 +80,7 @@ social_link:
   use: true
   # 在这里开启微信二维码
   wechat_personal: 
-    switch: true
+    switch: false
     src: https://s2.loli.net/2022/09/14/13GTLrof5sWY7da.jpg
   wechat_public: 
     switch: false
