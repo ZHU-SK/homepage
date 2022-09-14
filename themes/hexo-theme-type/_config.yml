@@ -67,8 +67,8 @@ nav:
 
 # Cover Links 封面底部链接
 cover_links:
-  - title: Links
-    link: /links/
+  #- title: Links
+  #  link: /links/
   - title: Gallery
     link: /gallery/
   - title: IG
