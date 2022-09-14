@@ -51,12 +51,15 @@ nav:
   关于:
     link: /about/
     icon: person
-  留言板:
-    link: /messageboard/
-    icon: note_alt
+  #留言板:
+  #  link: /messageboard/
+  #  icon: note_alt
   歌单:
     link: /playlist/
     icon: queue_music
+  友情链接:
+    link: /links/
+    icon: group
 
 
 
