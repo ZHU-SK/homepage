@@ -5,13 +5,12 @@ type: "playlist"
 ---
 This is a test page for playlist.
 
-{% meting "霞光" "netease" "song" "theme:#2980b9" "mode:circulation" "mutex:true" "listmaxheight:340px" "preload:auto" %}
+
+
 
 {% bili %}
-<iframe src="//music.163.com/outchain/player?type=4&id=792406416&auto=1&height=430" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=4&id=792406416&auto=0&height=430"></iframe>
 {% endbili %}
-
-
 
 {% meting "536874702" "netease" "playlist" "theme:#2980b9" "mode:circulation" "mutex:true" "listmaxheight:340px" "preload:auto" %}
 
