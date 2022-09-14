@@ -5,6 +5,7 @@ categories: 采風
 tags:
  - Photography
  - HongKong
+ - Defocus
 excerpt: Hazy is another elegant.
 abbrlink: 1111
 permalink: Defocus/
