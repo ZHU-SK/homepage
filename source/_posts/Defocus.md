@@ -6,7 +6,8 @@ tags:
  - Photography
  - HongKong
  - Defocus
-excerpt: Hazy is another elegant.失焦同樣優雅。
+excerpt: Hazy is another elegant.
+失焦同樣優雅。
 abbrlink: 0002
 permalink: Defocus/
 cover: https://s2.loli.net/2022/09/13/j5pyS8W7PLaHtrs.jpg
