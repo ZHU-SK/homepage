@@ -5,7 +5,7 @@ categories: 采風
 tags:
  - Photography
  - HongKong
-excerpt: I prefer Shatin translated as "沙汀" rather than "沙田"
+excerpt: I prefer Shatin translated as "沙汀" rather than "沙田".
 abbrlink: 0003
 permalink: shatin/
 cover: https://s2.loli.net/2022/09/15/zQfrdPX6xVv19Hu.jpg
