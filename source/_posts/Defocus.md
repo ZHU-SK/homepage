@@ -19,7 +19,7 @@ A set of defocused photos are illustrated, rangefinder is too hard to focus, and
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i0.hdslb.com/bfs/album/1a9f35a0d5784147389544b0142e8085ee4c3e89.jpg">
+    src="https://i0.hdslb.com/bfs/album/08e3fd305c47e0bac3264fda7136cdac481196c4.jpg">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -28,12 +28,13 @@ A set of defocused photos are illustrated, rangefinder is too hard to focus, and
 </center>
 
 
+
 <br/>
 
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i0.hdslb.com/bfs/album/82a4593ac0327ca6b9adb18cd4b12fd0b13844a5.jpg">
+    src="https://i0.hdslb.com/bfs/album/a65e26345454402bc4d09cb411a39e2e6b67de34.jpg">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -42,12 +43,13 @@ A set of defocused photos are illustrated, rangefinder is too hard to focus, and
 </center>
 
 
+
 <br/>
 
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i0.hdslb.com/bfs/album/c1e7932b6dd74e06016593c2effc7203d68ee834.jpg">
+    src="https://i0.hdslb.com/bfs/album/db38b5cebfc6243a23f16ac744a9ef441781bbfe.jpg">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -56,6 +58,7 @@ A set of defocused photos are illustrated, rangefinder is too hard to focus, and
 </center>
 
 
+
 <br/>
 
 
@@ -63,7 +66,7 @@ A set of defocused photos are illustrated, rangefinder is too hard to focus, and
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i0.hdslb.com/bfs/album/9085bd466d0c14adf377e7cdfe0658d63c2f8cfc.jpg">
+    src="https://i0.hdslb.com/bfs/album/c949928ebf2c1442497a264456fadab247c0c340.jpg">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -76,7 +79,7 @@ A set of defocused photos are illustrated, rangefinder is too hard to focus, and
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i0.hdslb.com/bfs/album/90c58cc9dd10be7c782ba54bd006e999bf65e258.jpg">
+    src="https://i0.hdslb.com/bfs/album/ed7a36671dc3095a3e02f9ef2abb0963273d7a06.jpg">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -89,7 +92,7 @@ A set of defocused photos are illustrated, rangefinder is too hard to focus, and
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i0.hdslb.com/bfs/album/970b983e502aa9680ba33f1a2fbc6fa861fc8f5e.jpg">
+    src="https://i0.hdslb.com/bfs/album/11451f90eb941511297398f26aaaf51dcbef1b98.jpg">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -98,12 +101,13 @@ A set of defocused photos are illustrated, rangefinder is too hard to focus, and
 </center>
 
 
+
 <br/>
 
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i0.hdslb.com/bfs/album/32ac58907ab648c298db4a8e31ae05fa5782b3b5.jpg">
+    src="https://i0.hdslb.com/bfs/album/585783d6f5bc05513bf4201e3dce46ddfa9ca0b4.jpg">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -116,7 +120,7 @@ A set of defocused photos are illustrated, rangefinder is too hard to focus, and
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i0.hdslb.com/bfs/album/85c92bfd8f1118ad2ef8b904bf8d912e746dcec6.jpg">
+    src="https://i0.hdslb.com/bfs/album/b3ecbad807d6487b91a397d1d1c48d81c4d228a9.jpg">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -129,13 +133,14 @@ A set of defocused photos are illustrated, rangefinder is too hard to focus, and
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i0.hdslb.com/bfs/album/71b13171dc4a8d518bd06bb2b30ee3d0d7e7d574.jpg">
+    src="https://i0.hdslb.com/bfs/album/fc4cb81dff5fdcd156d727409d0c18f1797d1fbc.jpg">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
     padding: 2px;">Bubble Tea</div>
 </center>
+
 
 <br/>
 
