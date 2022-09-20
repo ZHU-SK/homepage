@@ -24,7 +24,7 @@ schemes: m3
 
 # Fonts
 # Use LXGW ｜ 
-fonts: LXGW
+fonts:
 
 # Random Pictures
 random_pic_switch: false
