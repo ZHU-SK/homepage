@@ -48,15 +48,15 @@ nav:
   归档: 
     link: /archives/
     icon:  move_to_inbox
-  关于:
-    link: /about/
-    icon: person
+  #关于:
+  #  link: /about/
+  #  icon: person
   #留言板:
   #  link: /messageboard/
   #  icon: note_alt
-  歌单:
-    link: /playlist/
-    icon: queue_music
+  #歌单:
+  #  link: /playlist/
+  #  icon: queue_music
   友情链接:
     link: /links/
     icon: group
