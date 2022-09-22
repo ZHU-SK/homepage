@@ -1,7 +1,7 @@
 ---
-layout: Messageboard
+layout: messageboard
 title: Message Box
-abbrlink: 14f7
+abbrlink: message
 ---
 Thanks for visiting my website, please leave a message, and of course, it is totally anonymous.
 
