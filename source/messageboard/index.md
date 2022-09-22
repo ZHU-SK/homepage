@@ -1,5 +1,5 @@
 ---
-layout: Messagebox
+layout: Messageboard
 title: Message Box
 abbrlink: 14f7
 ---
