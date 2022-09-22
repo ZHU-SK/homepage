@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Message Board
+layout: Messagebox
+title: Message Box
 abbrlink: 14f7
 ---
 Thanks for visiting my website, please leave a message, and of course, it is totally anonymous.
