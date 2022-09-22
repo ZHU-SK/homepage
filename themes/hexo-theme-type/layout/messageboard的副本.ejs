@@ -99,7 +99,24 @@
     <div class="article">
       <%- page.content %>
     </div>
-
+    <div class="itp-m3-post-info_area">
+      <div class="info_area-category">
+        <% if (page.categories && page.categories.length) { %>
+        <% page.categories.each(function(categories){ %>
+        <a href="<%= config.root %>categories/<%= categories.name %>/" rel="categories" class="itp-m3-chip-color">
+          <%- categories.name %>
+        </a>
+        <% }); %>
+        <% } %>
+        <% if (page.tags && page.tags.length) { %>
+        <% page.tags.each(function(tag){ %>
+        <a href="<%= config.root %>tags/<%= tag.name %>/" rel="tag" class="itp-m3-chip-normal">
+          #<%- tag.name %>
+        </a>
+        <% }); %>
+        <% } %>
+      </div> 
+  </div>
   <div class="itp-m3-card itp-m3-post-comment_area" id="comment">
     <%- partial('_partial/comment') %>
   </div>
