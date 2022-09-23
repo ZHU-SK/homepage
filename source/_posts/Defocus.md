@@ -17,6 +17,16 @@ A set of defocused photos are illustrated, rangefinder is too hard to focus, and
 分享一组失焦图，很多时候构图很好，环境很好，氛围也很好，就是我没估测好距离，本来其实觉得挺可惜的，但这类失焦图实在太多了，反而没什么感觉了。所有图片均由徕卡M11搭配50毫米1.4光圈镜头拍摄，图片可在<mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/En3qhKsmPhtNiW-51bs1ieQBaXhCWn5jZGS_tR1cyoKiBw?e=v556P9)</mark>获取。
 
 
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://i0.hdslb.com/bfs/album/1a9f35a0d5784147389544b0142e8085ee4c3e89.jpg">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">Promoter</div>
+</center>
 <br/>
 
 <center>

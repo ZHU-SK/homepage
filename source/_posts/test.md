@@ -8,7 +8,7 @@ tags:
  - Defocus
 excerpt: Hazy is another elegant.失焦同樣優雅。
 abbrlink: 0002
-permalink: defocus/
+permalink: tttest/
 cover: https://s2.loli.net/2022/09/13/j5pyS8W7PLaHtrs.jpg
 date: 2022-09-12 20:39:35
 ---
