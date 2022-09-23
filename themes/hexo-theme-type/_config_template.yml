@@ -175,3 +175,12 @@ google_analytics:
 # https://www.chartjs.org/
 chart_js:
   use: false
+
+# ---------------------------------------------------------------
+# Assets CDN Settings 资源托管设置
+# ---------------------------------------------------------------
+
+# Use jsdelivr | self_host
+# 如果你的站点接入了 Cloudflare，建议您使用 self_host 选项，以便资源可以被 Cloudflare 正确缓存。
+cdn:
+  use: self_host
