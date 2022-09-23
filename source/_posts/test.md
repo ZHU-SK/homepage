@@ -1,5 +1,5 @@
 ---
-title: Defocus
+title: Test
 author: iceky
 categories: 采風
 tags:
@@ -16,6 +16,41 @@ A set of defocused photos are illustrated, rangefinder is too hard to focus, and
 
 分享一组失焦图，很多时候构图很好，环境很好，氛围也很好，就是我没估测好距离，本来其实觉得挺可惜的，但这类失焦图实在太多了，反而没什么感觉了。所有图片均由徕卡M11搭配50毫米1.4光圈镜头拍摄，图片可在<mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/En3qhKsmPhtNiW-51bs1ieQBaXhCWn5jZGS_tR1cyoKiBw?e=v556P9)</mark>获取。
 
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://s2.loli.net/2022/09/13/j5pyS8W7PLaHtrs.jpg">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">Promoter</div>
+</center>
+
+
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://i0.hdslb.com/bfs/album/dde393d08c6e849fc8111187a95c2b6ebfe4d951.jpg">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">Promoter</div>
+</center>
+
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://s2.loli.net/2022/09/23/n3iqydSw5thjV6G.jpg">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">Promoter</div>
+</center>
 
 <br/>
 
