@@ -32,7 +32,7 @@ A set of defocused photos are illustrated, rangefinder is too hard to focus, and
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i0.hdslb.com/bfs/album/08e3fd305c47e0bac3264fda7136cdac481196c4.jpg">
+    src="https://i0.hdslb.com/bfs/album/0e71a37a8373e70b368ff6a311e62d9245820985.jpg">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -41,6 +41,16 @@ A set of defocused photos are illustrated, rangefinder is too hard to focus, and
 </center>
 
 
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://s2.loli.net/2022/09/23/n3iqydSw5thjV6G.jpg">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">Promoter</div>
+</center>
 
 <br/>
 
