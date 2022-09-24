@@ -103,6 +103,9 @@ icp:
 # CDN LOGO
 # Use upyun | vercel
 cdn: 
+  use: self_host
+  
+footer_logo:
   use: 
   upyun: '../img/upyun.png'
   vercel: '../img/vercel-logotype-dark.svg'
