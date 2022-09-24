@@ -103,7 +103,7 @@ icp:
 # footer_logo
 # Use upyun | vercel
 footer_logo: 
-  use: 
+  use: false
   upyun: '../img/upyun.png'
   vercel: '../img/vercel-logotype-dark.svg'
 
