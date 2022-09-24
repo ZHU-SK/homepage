@@ -163,6 +163,7 @@ comment:
     distractionFreeMode: 
   waline:
     serverurl: https://iceky-comment.vercel.app/
+    placeholder: 要文明评论哦, 不然会被打屁屁 
 
 # Busuanzi Count 不蒜子计数
 busuanzi: true
