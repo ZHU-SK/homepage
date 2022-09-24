@@ -188,7 +188,12 @@
   <% } %>
   <% if(page.layout == 'post') { %>
   <% if (theme.chart_js.use == true){ %>
+
+  <% if(theme.cdn.use == 'jsdelivr') { %>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+  <% } else if ( theme.cdn.use == 'self_host') { %>
+  <script src="/js/chart.js@2.8.0"></script>
+  <% } %>
   <% } %>
   <% } %>
 </head>
