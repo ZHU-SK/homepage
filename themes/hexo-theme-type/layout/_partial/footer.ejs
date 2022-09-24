@@ -16,16 +16,16 @@
     <% } %>
     </a>
   </section>
-  <% if (theme.cdn.use == 'upyun'){ %>
+  <% if (theme.footer-logo.use == 'upyun'){ %>
   <section class="footer-logo">
     <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" target="_blank">
-      <img style="max-height: 40px !important;" src="<%- url_for(theme.cdn.upyun) %>"></a>
+      <img style="max-height: 40px !important;" src="<%- url_for(theme.footer-logo.upyun) %>"></a>
   </section>
   <% } %>
-  <% if (theme.cdn.use == 'vercel'){ %>
+  <% if (theme.footer-logo.use == 'vercel'){ %>
   <section class="footer-logo">
     <a href="https://vercel.com/" target="_blank">
-      <img style="padding-top: 12px; max-height: 25px !important; opacity: 0.4;" src="<%- url_for(theme.cdn.vercel) %>"></a>  
+      <img style="padding-top: 12px; max-height: 25px !important; opacity: 0.4;" src="<%- url_for(theme.footer-logo.vercel) %>"></a>  
   </section> 
   <% } %>
 </footer>
