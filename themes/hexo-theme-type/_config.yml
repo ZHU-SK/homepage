@@ -100,11 +100,11 @@ start_time: 2022
 count: true
 icp: 
 
-# CDN LOGO
-# Use upyun | vercel
+# CDN Choice
 cdn: 
   use: self_host
-  
+# CDN LOGO
+# Use upyun | vercel  
 footer_logo:
   use: 
   upyun: '../img/upyun.png'
