@@ -134,7 +134,11 @@
   <% if (theme.schemes =='column' ){ %>
   <script src="//cdn.jsdelivr.net/npm/@waline/client"></script>
   <%} else if (theme.schemes =='m3' ){ %>
-  <script src="//cdn.jsdelivr.net/npm/@waline/client/dist/Waline.noStyle.js"></script>
+  <% if(theme.cdn.use == 'jsdelivr') { %>
+  <script src="cdn.jsdelivr.net/npm/@waline/client/dist/Waline.noStyle.js"></script>
+  <% } else if ( theme.cdn.use == 'self_host') { %>
+  <script src="/js/Waline.noStyle.js"></script>
+  <% } %>
   <%- css('css/waline') %>
   <% } %>
   <% } %>
@@ -184,7 +188,12 @@
   <% } %>
   <% if(page.layout == 'post') { %>
   <% if (theme.chart_js.use == true){ %>
+
+  <% if(theme.cdn.use == 'jsdelivr') { %>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+  <% } else if ( theme.cdn.use == 'self_host') { %>
+  <script src="/js/chart.js@2.8.0"></script>
+  <% } %>
   <% } %>
   <% } %>
 </head>
