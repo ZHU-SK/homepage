@@ -163,6 +163,8 @@ comment:
     distractionFreeMode: 
   waline:
     serverurl: https://iceky-comment.vercel.app/
+    lang: en
+    avatar: mm
 
 # Busuanzi Count 不蒜子计数
 busuanzi: true
