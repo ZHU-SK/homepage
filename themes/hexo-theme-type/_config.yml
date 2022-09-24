@@ -100,9 +100,9 @@ start_time: 2022
 count: true
 icp: 
 
-# CDN LOGO
+# footer_logo
 # Use upyun | vercel
-cdn: 
+footer_logo: 
   use: 
   upyun: '../img/upyun.png'
   vercel: '../img/vercel-logotype-dark.svg'
@@ -163,7 +163,6 @@ comment:
     distractionFreeMode: 
   waline:
     serverurl: https://iceky-comment.vercel.app/
-    placeholder: 要文明评论哦, 不然会被打屁屁 
 
 # Busuanzi Count 不蒜子计数
 busuanzi: true
