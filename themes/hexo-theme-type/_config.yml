@@ -102,8 +102,8 @@ icp:
 
 # CDN LOGO
 # Use upyun | vercel
-footer_logo:
-  use: vercel
+cdn: 
+  use: 
   upyun: '../img/upyun.png'
   vercel: '../img/vercel-logotype-dark.svg'
 
@@ -182,22 +182,7 @@ google_analytics:
   ga_api: 
   gtag_id: G-6S4401FN4E
 
-
-umami_analytics: 
-  use: false
-  id: eff465f3-a4a1-4cfd-a5ab-cbbcb1b32a48
-  src: https://analytics.tripper.press/aioana.js
-
 # chart.js
 # https://www.chartjs.org/
 chart_js:
   use: false
-
-# ---------------------------------------------------------------
-# Assets CDN Settings 资源托管设置
-# ---------------------------------------------------------------
-
-# Use jsdelivr | self_host
-# 如果你的站点接入了 Cloudflare，建议您使用 self_host 选项，以便资源可以被 Cloudflare 正确缓存。
-cdn:
-  use: self_host  
