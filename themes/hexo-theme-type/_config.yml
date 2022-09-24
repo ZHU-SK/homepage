@@ -186,3 +186,11 @@ google_analytics:
 # https://www.chartjs.org/
 chart_js:
   use: false
+
+# ---------------------------------------------------------------
+# Assets CDN Settings
+# ---------------------------------------------------------------
+
+# Use jsdelivr | self_host
+cdn:
+  use: self_host
