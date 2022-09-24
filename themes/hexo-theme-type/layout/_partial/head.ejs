@@ -134,7 +134,11 @@
   <% if (theme.schemes =='column' ){ %>
   <script src="//cdn.jsdelivr.net/npm/@waline/client"></script>
   <%} else if (theme.schemes =='m3' ){ %>
-  <script src="//cdn.jsdelivr.net/npm/@waline/client/dist/Waline.noStyle.js"></script>
+  <script src="https://unpkg.com/@waline/client@v2/dist/waline.js"></script>
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/@waline/client@v2/dist/waline.css"
+  />
   <%- css('css/waline') %>
   <% } %>
   <% } %>
