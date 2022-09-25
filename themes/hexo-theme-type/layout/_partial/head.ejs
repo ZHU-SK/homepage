@@ -121,7 +121,7 @@
   <% } %>
   <% } %>
   <!-- jquery -->
-  <script src="//cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
+  <script src="/js/1_jquery.min.js"></script>
   <!--Comment-->
   <% if(theme.comment.use == 'gitment') { %>
   <link rel="stylesheet" href="/css/gitment.css">
@@ -132,9 +132,9 @@
   <script data-pjax src='//unpkg.com/valine/dist/Valine.min.js'></script>
   <% } else if (theme.comment.use == 'waline') { %>
   <% if (theme.schemes =='column' ){ %>
-  <script src="//cdn.jsdelivr.net/npm/@waline/client"></script>
+  <script src="/js/1_walline-client.js"></script>
   <%} else if (theme.schemes =='m3' ){ %>
-  <script src="//cdn.jsdelivr.net/npm/@waline/client/dist/Waline.noStyle.js"></script>
+  <script src="/js/1_Waline.noStyle.js"></script>
   <%- css('css/waline') %>
   <% } %>
   <% } %>
@@ -167,7 +167,7 @@
     window.ga_tid = "<%= theme.google_analytics.ga_id %>"; // {String} The trackerID of your site.
     window.ga_api = "<%= theme.google_analytics.ga_api %>"; // {String} The route of your cloudflare workers you just registered before.
   </script>
-  <script src="https://cdn.jsdelivr.net/npm/cfga@1.0.1" async></script>
+  <script src="/js/1_cfga@1.0.1.js" async></script>
   <% } else if (theme.google_analytics.use == 'gtag') { %>
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=<%= theme.google_analytics.gtag_id %>"></script>
@@ -184,7 +184,7 @@
   <% } %>
   <% if(page.layout == 'post') { %>
   <% if (theme.chart_js.use == true){ %>
-  <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+  <script src="/js/1_chart.js@2.8.0.js"></script>
   <% } %>
   <% } %>
 </head>
