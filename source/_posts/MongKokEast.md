@@ -9,7 +9,7 @@ excerpt: I prefer Shatin translated as "沙汀" rather than "沙田".
 abbrlink: 0004
 permalink: mongkokeast/
 cover: https://s2.loli.net/2022/09/26/wHFjtGoNP7cOVyW.jpg
-date: 2022-09-15 20:24:36
+date: 2022-09-17 20:56:36
 ---
 
 MongKok East is such a nice and peaceful place that every weekend I would come to pay a visit nevertheless weather condititions and the length of working to-do-list. The trace of living can be exposed to your very eyes, which slows the time and  walking pace. There are numerous snack booths standing aside of Nathan Road, where the storydream of Hong Kong begins.
