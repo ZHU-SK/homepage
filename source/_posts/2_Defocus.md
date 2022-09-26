@@ -12,7 +12,7 @@ permalink: defocus/
 cover: https://s2.loli.net/2022/09/13/j5pyS8W7PLaHtrs.jpg
 date: 2022-09-12 20:39:35
 ---
-A set of defocused photos are illustrated, rangefinder is too hard to focus, and there are countless times when making perfect composition, nice bokeh, along with the cozy atmosphere, however, I barely seized a single shot because of the unskilled manual focus and the insensitive distance perception. All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now available on <mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/En3qhKsmPhtNiW-51bs1ieQBaXhCWn5jZGS_tR1cyoKiBw?e=v556P9)</mark>
+A set of defocused photos are illustrated, rangefinder is too hard to focus, and there are countless times when making perfect composition, nice bokeh, along with the cozy atmosphere, however, I barely seized a single shot because of the unskilled manual focus and the insensitive distance perception. All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now available on <mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/En3qhKsmPhtNiW-51bs1ieQBaXhCWn5jZGS_tR1cyoKiBw?e=v556P9)</mark>.
 
 分享一组失焦图，很多时候构图很好，环境很好，氛围也很好，就是我没估测好距离，本来其实觉得挺可惜的，但这类失焦图实在太多了，反而没什么感觉了。所有图片均由徕卡M11搭配50毫米1.4光圈镜头拍摄，图片可在<mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/En3qhKsmPhtNiW-51bs1ieQBaXhCWn5jZGS_tR1cyoKiBw?e=v556P9)</mark>获取。
 
