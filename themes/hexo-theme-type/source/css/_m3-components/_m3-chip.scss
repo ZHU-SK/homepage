@@ -73,8 +73,8 @@
     }
     //首页归档
     .itp-m3-chip-bold {
-        background-color: #52596a;
-        color: #fff;
+        background-color: linear-gradient(120deg, $gradient-main-color-opt, $gradient-sub-color-opt);
+        color: $deep-grey;
     }
     //页内标签 归档页
     .itp-m3-chip-normal,
