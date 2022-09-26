@@ -5,14 +5,14 @@ categories: 采風
 tags:
  - Photography
  - HongKong
-excerpt: I prefer Shatin translated as "沙汀" rather than "沙田".
+excerpt: Something between Montparnasse and Mongkok.
 abbrlink: 0004
 permalink: mongkokeast/
 cover: https://s2.loli.net/2022/09/26/wHFjtGoNP7cOVyW.jpg
 date: 2022-09-17 20:56:36
 ---
 
-MongKok East is such a nice and peaceful place that every weekend I would come to pay a visit nevertheless weather condititions and the length of working to-do-list. The trace of living can be exposed to your very eyes, which slows the time and  walking pace. There are numerous snack booths standing aside of Nathan Road, where the storydream of Hong Kong begins.
+MongKok East is such a nice and peaceful place that every weekend I would come to pay a visit nevertheless weather conditions and the length of working to-do-list. The trace of living can be exposed to your very eyes, which slows the time and  walking pace. There are numerous snack booths standing aside of Nathan Road, where the storydream of Hong Kong begins.
 
 旺角东，每周一趟，风雨无阻，东铁线从头坐到尾，也是我课后最常拜访的街区；浓厚的生活气息让我看到香港不只有高速迈进的生活节奏，也有步履蹒跚的时光。红豆沙豆腐花、龙津鱼蛋、冰室葡挞、贵香园米线……在脑海里一一掠过，儿时港台电影中的场景正由此上演。
 
