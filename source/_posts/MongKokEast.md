@@ -16,7 +16,7 @@ MongKok East is such a nice and peaceful place that every weekend I would come t
 
 旺角东，每周一趟，风雨无阻，东铁线从头坐到尾，也是我课后最常拜访的街区；浓厚的生活气息让我看到香港不只有高速迈进的生活节奏，也有步履蹒跚的时光。红豆沙豆腐花、龙津鱼蛋、冰室葡挞、贵香园米线……在脑海里一一掠过，儿时港台电影中的场景正由此上演。
 
-All the photos are captured by Leica M11 with 50mm ƒ /1.4 lens, and now available on <mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/EjqLVgzBOL1AslnmuW4G8ogBe7l_bv_R6GSaIp7p5KA4pg?e=DJCgK8)</mark>
+All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now available on <mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/EjqLVgzBOL1AslnmuW4G8ogBe7l_bv_R6GSaIp7p5KA4pg?e=DJCgK8)</mark>
 
 所有图片均由徕卡M11搭配50毫米1.4光圈镜头拍摄，图片可在<mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/EjqLVgzBOL1AslnmuW4G8ogBe7l_bv_R6GSaIp7p5KA4pg?e=DJCgK8)</mark>获取。
 
