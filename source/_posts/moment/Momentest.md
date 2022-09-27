@@ -11,4 +11,4 @@ duludulu
 bibobibo
 hihahiha
 dilidili
-
+![柳州地图](https://imgur.lzmun.com/picgo/after2022/20220402182812.png_itp)
