@@ -1,7 +1,7 @@
 ---
 layout: messageboard
-title: Message Box
-abbrlink: message
+title: Phonograph
+abbrlink: phonograph
 ---
 Thanks for visiting my website, please leave a message, and of course, it is totally anonymous.
 
