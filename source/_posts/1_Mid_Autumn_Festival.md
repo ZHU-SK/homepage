@@ -5,6 +5,7 @@ categories: 采風
 tags:
  - Photography
  - HongKong
+ - Leica
 excerpt: Wish you a happy Mid Autumn Festival.
 abbrlink: 0001
 permalink: tour-maf-in-hk/
