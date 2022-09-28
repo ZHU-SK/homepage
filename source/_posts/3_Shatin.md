@@ -28,7 +28,6 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     padding: 2px;">Classroom</div>
 </center>
 
-
 <br/>
 
 <center>
@@ -42,9 +41,6 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     padding: 2px;">Turn around</div>
 </center>
 
-
-
-
 <br/>
 
 <center>
@@ -57,8 +53,6 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     color: #999;
     padding: 2px;">Checkmate</div>
 </center>
-
-
 
 <br/>
 
@@ -99,7 +93,6 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     padding: 2px;">三蚊雞</div>
 </center>
 
-
 <br/>
 
 <center>
@@ -112,10 +105,6 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     color: #999;
     padding: 2px;">Peekaboo</div>
 </center>
-
-
-
-
 
 <br/>
 
@@ -142,7 +131,6 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     color: #999;
     padding: 2px;">Lady of Hong Kong</div>
 </center>
-
 
 <br/>
 

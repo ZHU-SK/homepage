@@ -41,8 +41,6 @@ A set of defocused photos are illustrated, rangefinder is too hard to focus, and
     padding: 2px;">Lost</div>
 </center>
 
-
-
 <br/>
 
 <center>
@@ -56,11 +54,7 @@ A set of defocused photos are illustrated, rangefinder is too hard to focus, and
     padding: 2px;">Twins</div>
 </center>
 
-
-
 <br/>
-
-
 
 <center>
     <img style="border-radius: 0.3125em;
@@ -98,8 +92,6 @@ A set of defocused photos are illustrated, rangefinder is too hard to focus, and
     color: #999;
     padding: 2px;">Newsstand</div>
 </center>
-
-
 
 <br/>
 
@@ -140,6 +132,4 @@ A set of defocused photos are illustrated, rangefinder is too hard to focus, and
     padding: 2px;">Bubble Tea</div>
 </center>
 
-
 <br/>
-

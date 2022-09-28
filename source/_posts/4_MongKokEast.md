@@ -32,8 +32,6 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     padding: 2px;">Conversation</div>
 </center>
 
-
-
 <br/>
 
 <center>
@@ -47,10 +45,6 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     padding: 2px;">Grow-up</div>
 </center>
 
-
-
-
-
 <br/>
 
 <center>
@@ -63,9 +57,6 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     color: #999;
     padding: 2px;">Band</div>
 </center>
-
-
-
 
 <br/>
 
@@ -106,8 +97,6 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     padding: 2px;">Pack</div>
 </center>
 
-
-
 <br/>
 
 <center>
@@ -120,11 +109,6 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     color: #999;
     padding: 2px;">Pickup</div>
 </center>
-
-
-
-
-
 
 <br/>
 
@@ -203,8 +187,6 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     color: #999;
     padding: 2px;">Glance</div>
 </center>
-
-
 
 <br/>
 
