@@ -5,8 +5,9 @@ categories: 采風
 tags:
  - Photography
  - HongKong
+ - DiscoveryBay
  - Leica
-excerpt: Something between Montparnasse and Mongkok.
+excerpt: Discovery Bay, discovery way.
 abbrlink: 0005
 permalink: discoverybay/
 cover: https://s2.loli.net/2022/09/27/9HPeWZLKfSBTGmx.jpg
@@ -14,9 +15,9 @@ date: 2022-09-18 20:56:36
 ---
 
 
-All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now available on <mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/EqjPs0jo9HVNlVg9omY__GUBHVdrr5HIVTKMPYekZl3J6Q?e=7xG4OZ)</mark>.
+All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now available on <mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/Euvg8FtD8gBAhfepm_cjcnYBC5mJeaLhrBCOidDdQax0hA?e=W1spr7)</mark>.
 
-所有图片均由徕卡M11搭配50毫米1.4光圈镜头拍摄，图片可在<mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/EqjPs0jo9HVNlVg9omY__GUBHVdrr5HIVTKMPYekZl3J6Q?e=7xG4OZ)</mark>获取。
+所有图片均由徕卡M11搭配50毫米1.4光圈镜头拍摄，图片可在<mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/Euvg8FtD8gBAhfepm_cjcnYBC5mJeaLhrBCOidDdQax0hA?e=W1spr7)</mark>获取。
 
 <center>
     <img style="border-radius: 0.3125em;
