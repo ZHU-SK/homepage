@@ -5,6 +5,7 @@ categories: 采風
 tags:
  - Photography
  - HongKong
+ - Shatin
  - Leica
 excerpt: I prefer Shatin translated as "沙汀" rather than "沙田".
 abbrlink: 0003
