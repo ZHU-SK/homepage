@@ -60,10 +60,6 @@ gallery:
     src: 'https://i0.hdslb.com/bfs/album/687ae8a0fbb9d062fb1d8f37424c62ef19dd6245.jpg'
   - title: Mid Autumn Festival    
     src: 'https://i0.hdslb.com/bfs/album/d20486377e4177aba88e73dbce8e2561642d8f44.jpg'
-  - src: https://s2.loli.net/2022/09/13/9qhGkA7IpD3RcgV.jpg
-  - src: https://s2.loli.net/2022/09/13/9qhGkA7IpD3RcgV.jpg
-  - src: https://s2.loli.net/2022/09/13/9qhGkA7IpD3RcgV.jpg
-  - src: https://s2.loli.net/2022/09/13/9qhGkA7IpD3RcgV.jpg
 abbrlink: 8bd
 date: 2020-03-08 16:41:38
 noindex: true
