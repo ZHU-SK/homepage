@@ -2,17 +2,17 @@
 # ICON Settings 图标设置
 # ---------------------------------------------------------------
 
-favicon: https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/album/0b516de9653700c787d5071d316a987229dad132.jpg
-avatar: https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/album/0b516de9653700c787d5071d316a987229dad132.jpg
+favicon: https://i0.hdslb.com/bfs/album/0b516de9653700c787d5071d316a987229dad132.jpg
+avatar: https://i0.hdslb.com/bfs/album/0b516de9653700c787d5071d316a987229dad132.jpg
 apple_icon:
   # iPhone 57x57 
-  iphone: https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/album/0b516de9653700c787d5071d316a987229dad132.jpg
+  iphone: https://i0.hdslb.com/bfs/album/0b516de9653700c787d5071d316a987229dad132.jpg
   # iPad 72x72
-  ipad: https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/album/0b516de9653700c787d5071d316a987229dad132.jpg
+  ipad: https://i0.hdslb.com/bfs/album/0b516de9653700c787d5071d316a987229dad132.jpg
   # Retina iPhone 114x114
-  iphone_hd: https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/album/0b516de9653700c787d5071d316a987229dad132.jpg
+  iphone_hd: https://i0.hdslb.com/bfs/album/0b516de9653700c787d5071d316a987229dad132.jpg
   # Retina iPad 144x144
-  ipad_hd: https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/album/0b516de9653700c787d5071d316a987229dad132.jpg
+  ipad_hd: https://i0.hdslb.com/bfs/album/0b516de9653700c787d5071d316a987229dad132.jpg
   
 # ---------------------------------------------------------------
 # Style Settings 样式设置
