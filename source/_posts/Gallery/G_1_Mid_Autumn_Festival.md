@@ -5,7 +5,7 @@ categories: Gallery
 style: photos
 permalink: g_maf/
 icon: photo
-excerpt: Test for new page of gallery
+excerpt: Mid Autumn Festival.
 cover: 'https://s2.loli.net/2022/09/13/9qhGkA7IpD3RcgV.jpg'
 gallery:
   - title: Mid Autumn Festival
