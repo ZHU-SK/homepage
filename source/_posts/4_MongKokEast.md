@@ -10,7 +10,7 @@ tags:
 excerpt: Something between Montparnasse and Mongkok.
 abbrlink: 0004
 permalink: mongkokeast/
-cover: https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/album/3e77660f438e878aed7e86798d4fe37db8548cc7.jpg
+cover: https://s2.loli.net/2022/09/26/wHFjtGoNP7cOVyW.jpg
 date: 2022-09-17 20:56:36
 ---
 

@@ -10,7 +10,7 @@ tags:
 excerpt: Wish you a happy Mid Autumn Festival.
 abbrlink: 0001
 permalink: tour-maf-in-hk/
-cover: https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/album/ce0cf71ae71f3a0585f1f26caebce7ccf04095e2.jpg
+cover:  https://s2.loli.net/2022/09/13/9qhGkA7IpD3RcgV.jpg
 date: 2022-09-11 23:49:35
 ---
 Wish you a happy Mid Autumn Festival. All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now available on <mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/Et1VrY77bl1ClTN-tSt4Q8ABIIdtJXA9KOoPCUFVHrxgvg?e=yYVqQT)</mark>.

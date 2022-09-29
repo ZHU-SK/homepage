@@ -10,7 +10,7 @@ tags:
 excerpt: I prefer Shatin translated as "沙汀" rather than "沙田".
 abbrlink: 0003
 permalink: shatin/
-cover: https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/album/78059dd0877a1f52123999b1fd0236fc7d5e214f.jpg
+cover: https://s2.loli.net/2022/09/15/zQfrdPX6xVv19Hu.jpg
 date: 2022-09-15 20:24:36
 ---
 

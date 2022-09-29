@@ -10,7 +10,7 @@ tags:
 excerpt: Discovery Bay, discovery way.
 abbrlink: 0005
 permalink: discoverybay/
-cover: https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/album/41f8301e3f947c728cb5af72af5406a3c900e9d6.jpg
+cover: https://s2.loli.net/2022/09/27/9HPeWZLKfSBTGmx.jpg
 date: 2022-09-18 20:56:36
 ---
 
