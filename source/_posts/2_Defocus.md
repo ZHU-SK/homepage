@@ -10,7 +10,7 @@ tags:
 excerpt: Hazy is another elegant.
 abbrlink: 0002
 permalink: defocus/
-cover: https://i0.hdslb.com/bfs/album/e41eb5515b3456bad522ddd04208d6ab53cd60d7.jpg
+cover: https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/album/e41eb5515b3456bad522ddd04208d6ab53cd60d7.jpg
 date: 2022-09-12 20:39:35
 ---
 A set of defocused photos are illustrated, rangefinder is too hard to focus, and there are countless times when making perfect composition, nice bokeh, along with the cozy atmosphere, however, I barely seized a single shot because of the unskilled manual focus and the insensitive distance perception. All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now available on <mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/En3qhKsmPhtNiW-51bs1ieQBaXhCWn5jZGS_tR1cyoKiBw?e=v556P9)</mark>.
