@@ -199,9 +199,6 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     padding: 2px;">Model</div>
 </center>
 
-
-
-
 <br/>
 
 <center>
