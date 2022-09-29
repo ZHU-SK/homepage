@@ -1,7 +1,7 @@
 moment: 动态
 prev: 上一页
 next: 下一页
-archive_a: 归档
+archive_a: Archive
 archive_b: 归档：%s
 post:
   post_on: 本文发布于
