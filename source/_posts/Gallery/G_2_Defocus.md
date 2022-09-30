@@ -1,5 +1,5 @@
 ---
-title: Defocus
+title: Defocus. 失焦
 author: iceky
 categories: Gallery
 style: photos

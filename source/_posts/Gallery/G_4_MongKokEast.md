@@ -1,5 +1,5 @@
 ---
-title: MongKok East
+title: MongKok East. 旺角東
 author: iceky
 categories: Gallery
 style: photos

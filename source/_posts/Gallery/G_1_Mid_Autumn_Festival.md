@@ -1,5 +1,5 @@
 ---
-title: Mid Autumn Festival
+title: Mid Autumn Festival. 中秋節
 author: iceky
 categories: Gallery
 style: photos
