@@ -133,7 +133,7 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">Orange</div>
+    padding: 2px;">883</div>
 </center>
 
 
