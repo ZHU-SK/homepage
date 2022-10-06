@@ -16,9 +16,9 @@ date: 2022-10-05 20:56:36
 ---
 
 
-All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now available on <mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/ElyiSxAg6s1Cq1BrSit5ixQBfcpIZZk5bWRgKKLQ42uOnQ?e=vLxN2B)</mark>.
+All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now available on <mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/Eqhg7Rt_hpVPi8hLL8VfacYBm_G5JjxlE2O-9YMBrv3vJg?e=QuBVmO)</mark>.
 
-所有图片均由徕卡M11搭配50毫米1.4光圈镜头拍摄，图片可在<mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/ElyiSxAg6s1Cq1BrSit5ixQBfcpIZZk5bWRgKKLQ42uOnQ?e=vLxN2B)</mark>获取。
+所有图片均由徕卡M11搭配50毫米1.4光圈镜头拍摄，图片可在<mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/Eqhg7Rt_hpVPi8hLL8VfacYBm_G5JjxlE2O-9YMBrv3vJg?e=QuBVmO)</mark>获取。
 
 <center>
     <img style="border-radius: 0.3125em;
@@ -28,11 +28,8 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;"></div>
+    padding: 2px;">Violinist</div>
 </center>
-
-
-
 
 <br/>
 
@@ -44,10 +41,8 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;"></div>
+    padding: 2px;">Woods</div>
 </center>
-
-
 
 <br/>
 
@@ -59,7 +54,7 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;"></div>
+    padding: 2px;">Teas</div>
 </center>
 
 <br/>
@@ -72,7 +67,7 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;"></div>
+    padding: 2px;">BBQ Sticks</div>
 </center>
 
 <br/>
@@ -85,10 +80,21 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;"></div>
+    padding: 2px;">Mong Kok Road</div>
 </center>
 
+<br/>
 
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://i0.hdslb.com/bfs/album/1f6ed394d404b2290b7ae96f6f4a2003a75cb735.jpg">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">FLags</div>
+</center>
 
 <br/>
 
@@ -100,7 +106,7 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;"></div>
+    padding: 2px;">Mong Kok Road(BW)</div>
 </center>
 
 <br/>
@@ -113,7 +119,7 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;"></div>
+    padding: 2px;">Booth</div>
 </center>
 
 <br/>
@@ -126,7 +132,7 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;"></div>
+    padding: 2px;">Circles</div>
 </center>
 
 <br/>
@@ -139,11 +145,8 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;"></div>
+    padding: 2px;">Landing</div>
 </center>
-
-
-
 
 <br/>
 
@@ -155,7 +158,5 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;"></div>
+    padding: 2px;">Directions</div>
 </center>
-
-
