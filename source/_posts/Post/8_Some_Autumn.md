@@ -31,7 +31,6 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     padding: 2px;">Platform</div>
 </center>
 
-
 <br/>
 
 <center>
@@ -115,19 +114,6 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i0.hdslb.com/bfs/album/f749baa2fb75a401c47ddbdf9bf3cbe6535fc643.jpg">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">Some Autumn</div>
-</center>
-
-<br/>
-
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="https://i0.hdslb.com/bfs/album/ceb4df39987101ca086a1182ac400530ccfd4b5f.jpg">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -136,5 +122,15 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     padding: 2px;">883</div>
 </center>
 
+<br/>
 
-
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://i0.hdslb.com/bfs/album/f749baa2fb75a401c47ddbdf9bf3cbe6535fc643.jpg">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">Some Autumn</div>
+</center>
