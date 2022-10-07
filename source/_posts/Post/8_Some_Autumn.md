@@ -8,12 +8,15 @@ tags:
  - Selfie
  - CUHK
  - Leica
-excerpt: Some Autumn
+excerpt: A wet fog clung to the streets, obscuring the buildings and the barges moving slowly on the Victoria Harbour.
 abbrlink: 0008
 permalink: some_autumn/
 cover: https://s2.loli.net/2022/10/06/8Xa1LtclJUKNQeD.jpg
 date: 2022-10-06 20:56:36
 ---
+🌧 A wet fog clung to the streets, obscuring the buildings and the barges moving slowly on the Victoria Harbour.
+
+🌧 潮湿的水雾笼罩着街道，也遮蔽了屋舍同维多利亚港上缓行的驳船。
 
 
 All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now available on <mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/EhOGXAsCcVdLhtK2AXXi8hUBL4DdQV_lGuo3NvNJy2a40A?e=VMfaSL)</mark>.
