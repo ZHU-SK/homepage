@@ -18,7 +18,7 @@ date: 2022-10-05 20:56:36
 
 All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now available on <mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/Eqhg7Rt_hpVPi8hLL8VfacYBm_G5JjxlE2O-9YMBrv3vJg?e=QuBVmO)</mark>.
 
-所有图片均由徕卡M11搭配50毫米1.4光圈镜头拍摄，图片可在<mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/Eqhg7Rt_hpVPi8hLL8VfacYBm_G5JjxlE2O-9YMBrv3vJg?e=QuBVmO)</mark>获取。
+所有圖片均由徠卡M11搭配50毫米1.4光圈鏡頭拍攝，圖片可在<mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/Eqhg7Rt_hpVPi8hLL8VfacYBm_G5JjxlE2O-9YMBrv3vJg?e=QuBVmO)</mark>獲取。
 
 <center>
     <img style="border-radius: 0.3125em;

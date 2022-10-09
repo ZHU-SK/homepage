@@ -16,11 +16,11 @@ date: 2022-09-17 20:56:36
 
 MongKok East is such a nice and peaceful place that every weekend I would come to pay a visit nevertheless weather conditions and the length of working to-do-list. The trace of living can be exposed to your very eyes, which slows the time and  walking pace. There are numerous snack booths standing aside of Sai Yeung Choi Street South, where the storydream of Hong Kong begins.
 
-旺角东，每周一趟，风雨无阻，东铁线从头坐到尾，也是我课后最常拜访的街区；浓厚的生活气息让我看到香港不只有高速迈进的生活节奏，也有步履蹒跚的时光。红豆沙豆腐花、龙津鱼蛋、冰室葡挞、贵香园米线……在脑海里一一掠过，儿时港台电影中的场景正由此上演。
+旺角東，每周一趟，風雨無阻，東鐵線從頭坐到尾，也是我課後最常拜訪的街區；濃厚的生活氣息讓我看到香港不只有高速邁進的生活節奏，也有步履蹣跚的時光。紅豆沙豆腐花、龍津魚蛋、冰室葡撻、貴香園米線……在腦海裏一一掠過，兒時港臺電影中的場景正由此上演。
 
 All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now available on <mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/Et-WG2ezyLJIk8kjEHjiG3EBno0QaGCrdQdXA-W9B25mdA?e=zknIHk)</mark>.
 
-所有图片均由徕卡M11搭配50毫米1.4光圈镜头拍摄，图片可在<mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/Et-WG2ezyLJIk8kjEHjiG3EBno0QaGCrdQdXA-W9B25mdA?e=zknIHk)</mark>获取。
+所有圖片均由徠卡M11搭配50毫米1.4光圈鏡頭拍攝，圖片可在<mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/Et-WG2ezyLJIk8kjEHjiG3EBno0QaGCrdQdXA-W9B25mdA?e=zknIHk)</mark>獲取。
 
 <center>
     <img style="border-radius: 0.3125em;
