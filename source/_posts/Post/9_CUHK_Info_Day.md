@@ -10,7 +10,7 @@ tags:
 excerpt: Rush Back to 18's
 abbrlink: 0008
 permalink: info_day/
-cover: https://s2.loli.net/2022/10/15/jTNE3qhOrgcWBoD.jpg
+cover: https://s2.loli.net/2022/10/15/Lfkir8qbvwGFCzO.jpg
 date: 2022-10-15 20:56:36
 ---
 How I wish a sudden rush back to my 18's.

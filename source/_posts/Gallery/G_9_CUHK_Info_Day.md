@@ -6,7 +6,7 @@ style: photos
 permalink: g_cuhkinfoday/
 icon: photo
 excerpt: CUHK Info Day
-cover: https://s2.loli.net/2022/10/15/jTNE3qhOrgcWBoD.jpg
+cover: https://s2.loli.net/2022/10/15/Lfkir8qbvwGFCzO.jpg
 gallery:  
   - src:https://i0.hdslb.com/bfs/album/f0c307f4a0a7fbb2b1c5310339bd43639ecf7131.jpg
   - src:https://i0.hdslb.com/bfs/album/1ca4abf502e2835463a838592a90d64b9301534d.jpg
