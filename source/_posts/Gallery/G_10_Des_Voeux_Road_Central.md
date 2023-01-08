@@ -1,11 +1,11 @@
 ---
-title: Sai Ying Pun 西營盤
+title: Des Voeux Road Central 德輔道中
 author: iceky
 categories: Gallery
 style: photos
 permalink: g_syp/
 icon: photo
-excerpt: Sai Ying Pun
+excerpt: Des Voeux Road Central
 cover: https://s2.loli.net/2022/12/03/1SVmh8BwOnJUX7N.jpg
 gallery:  
   - src: https://i0.hdslb.com/bfs/album/461e8946e2bf08f9a190d559ecb8cbd2d5815557.jpg
