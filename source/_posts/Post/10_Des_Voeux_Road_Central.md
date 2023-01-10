@@ -9,7 +9,7 @@ tags:
  - Leica
 excerpt: Lazy Afternoon
 abbrlink: 0010
-permalink: syp/
+permalink: dvrc/
 cover: https://s2.loli.net/2022/12/03/1SVmh8BwOnJUX7N.jpg
 date: 2022-12-03 20:56:36
 ---
