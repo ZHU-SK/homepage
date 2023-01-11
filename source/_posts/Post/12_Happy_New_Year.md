@@ -21,12 +21,12 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i0.hdslb.com/bfs/album/045c6407f6bc0a0b5466cdfbb766b39943b06885.jpg">
+    src="https://i0.hdslb.com/bfs/album/91555aefc282aeeebd8372ffbe0beb3b6f879ca6.jpg">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 1px;">Cheers</div>
+    padding: 1px;">3933</div>
 </center>
 
 <br/>
@@ -34,12 +34,12 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i0.hdslb.com/bfs/album/ce6721651269abaa3427e3f5bd9ad20c06f80ad6.jpg">
+    src="https://i0.hdslb.com/bfs/album/2a14fd1c9511873dd9e35b3e437b0d180e9a38a8.jpg">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 1px;">Whisper</div>
+    padding: 1px;">Fruit Market</div>
 </center>
 
 <br/>
@@ -47,85 +47,12 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i0.hdslb.com/bfs/album/58117c48ee773be42c6fdde0f5814a75462c4243.jpg">
+    src="https://i0.hdslb.com/bfs/album/7a08efe70273ea526925b3f59654b9a7457c63b5.jpg">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 1px;">Glances</div>
-</center>
-
-
-<br/>
-
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i0.hdslb.com/bfs/album/76d7014ba7ecc3774977bcdd76dab9fa54813bdf.jpg">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 1px;">Father Christmas1</div>
-</center>
-
-
-<br/>
-
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i0.hdslb.com/bfs/album/e346dd8d505ed61d6445c9008176c302f6b99c80.jpg">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 1px;">Father Christmas2</div>
-</center>
-
-
-<br/>
-
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i0.hdslb.com/bfs/album/658036d742a37915f1e036f64968f9660f658763.jpg">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 1px;">Gift Deliever</div>
-</center>
-
-
-
-
-
-<br/>
-
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i0.hdslb.com/bfs/album/3a6bceaea4ba1dec58236cb524d681ba91d6655b.jpg">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 1px;">Choir</div>
-</center>
-
-
-<br/>
-
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i0.hdslb.com/bfs/album/a9e0849d8565674c4f020242a51029fd7002b876.jpg">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 1px;">Balloon</div>
+    padding: 1px;">Effendi</div>
 </center>
 
 
@@ -135,25 +62,75 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i0.hdslb.com/bfs/album/19af429b2dcf97aeda7636105cfdf54a54910dbd.jpg">
+    src="https://i0.hdslb.com/bfs/album/89081a72f602b2ce0269348db155928fb6542b14.jpg">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 1px;">Taxi Light</div>
+    padding: 1px;">Gau Yan Tong</div>
 </center>
+
+
 
 <br/>
 
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i0.hdslb.com/bfs/album/092642fcc5770c1116e553d003cb4d333b689383.jpg">
+    src="https://i0.hdslb.com/bfs/album/0ed72afdee05e7cae1fdb7f7807d388ad804a0d1.jpg">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 1px;">Bear</div>
+    padding: 1px;">Bonham</div>
+</center>
+
+
+
+<br/>
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://i0.hdslb.com/bfs/album/1ee50e2454879704e36093aaea6154978b2b2a43.jpg">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 1px;">Church</div>
+</center>
+
+
+
+
+
+
+<br/>
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://i0.hdslb.com/bfs/album/ed96f12490cf6d0519208e63ef8b1b8d7b832739.jpg">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 1px;">1961</div>
+</center>
+
+
+
+<br/>
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://i0.hdslb.com/bfs/album/806df66da59100ba0193ca4bdfd42cfc686b2ac6.jpg">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 1px;">Bay</div>
 </center>
 
 
@@ -164,53 +141,11 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i0.hdslb.com/bfs/album/5a7b59f0d410db241f8a280f53309b64c50080b8.jpg">
+    src="https://i0.hdslb.com/bfs/album/e052d9748440db3a8588d73fe3820f9a162e828a.jpg">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 1px;">Snow Like</div>
+    padding: 1px;">2023</div>
 </center>
 
-
-<br/>
-
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i0.hdslb.com/bfs/album/66b5f95eb26ed7735c87b5425ed38411814d65dc.jpg">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 1px;">Theater</div>
-</center>
-
-<br/>
-
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i0.hdslb.com/bfs/album/080430fb01d946869eeff49c5b2f89b80d0c76e3.jpg">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 1px;">Mc</div>
-</center>
-
-<br/>
-
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i0.hdslb.com/bfs/album/8093fc72825f01a44fde243f9537de8896c4244a.jpg">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 1px;">Lan Kwai Fong</div>
-</center>
-
-
-<br/>
