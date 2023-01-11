@@ -9,7 +9,7 @@ tags:
  - Leica
 excerpt: Happy New Year!
 abbrlink: 0011
-permalink: mc/
+permalink: hny/
 cover: https://s2.loli.net/2023/01/11/A4zXQWOYBlTK8q9.jpg
 date: 2023-1-1 20:56:36
 ---
