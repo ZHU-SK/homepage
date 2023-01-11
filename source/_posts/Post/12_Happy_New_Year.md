@@ -1,5 +1,5 @@
 ---
-title: Happy New Year!
+title: Happy New Year
 author: iceky
 categories: 采風
 tags:
