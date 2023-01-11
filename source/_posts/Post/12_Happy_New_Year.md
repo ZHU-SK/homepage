@@ -1,17 +1,17 @@
 ---
-title: Marry Christmas
+title: Happy New Year!
 author: iceky
 categories: 采風
 tags:
  - Photography
  - HongKong
- - Christmas
+ - NewYear
  - Leica
-excerpt: Marry Christmas
+excerpt: Happy New Year!
 abbrlink: 0011
 permalink: mc/
-cover: https://s2.loli.net/2023/01/10/hqAdLwsf7xJCUOH.jpg
-date: 2022-12-25 20:56:36
+cover: https://s2.loli.net/2023/01/11/A4zXQWOYBlTK8q9.jpg
+date: 2023-1-1 20:56:36
 ---
 
 All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now available on <mark>[OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155152798_link_cuhk_edu_hk/EtExUDY8CclPnMnTU8eBdaMBMK5wxXvCPgYzyalgjf6AUA?e=T1NvDG)</mark>.
