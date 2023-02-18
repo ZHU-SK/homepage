@@ -7,6 +7,7 @@ tags:
  - HongKong
  - Mongkok
  - Leica
+ - Polychrome
 excerpt: Something between Montparnasse and Mongkok.
 abbrlink: 0004
 permalink: mongkokeast/

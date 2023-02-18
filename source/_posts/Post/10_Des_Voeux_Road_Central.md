@@ -7,6 +7,7 @@ tags:
  - HongKong
  - DesVoeuxRoadCentral
  - Leica
+ - Polychrome
 excerpt: Lazy Afternoon
 abbrlink: 0010
 permalink: dvrc/

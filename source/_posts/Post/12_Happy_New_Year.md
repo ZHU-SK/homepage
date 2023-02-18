@@ -7,6 +7,7 @@ tags:
  - HongKong
  - NewYear
  - Leica
+ - Polychrome
 excerpt: Happy New Year!
 abbrlink: 0012
 permalink: hny/

@@ -7,6 +7,7 @@ tags:
  - HongKong
  - DiscoveryBay
  - Leica
+ - Polychrome
 excerpt: Discovery Bay, discovery way.
 abbrlink: 0005
 permalink: discoverybay/

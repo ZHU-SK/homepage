@@ -7,6 +7,7 @@ tags:
  - HongKong
  - TaiPo
  - Leica
+ - Polychrome
 excerpt: Instead of skyscrapers, however, hidden away from the hustle and bustle of the city life lies the very lush green area.
 abbrlink: 0006
 permalink: taipomarket/

@@ -8,6 +8,7 @@ tags:
  - Selfie
  - CUHK
  - Leica
+ - Polychrome
 excerpt: A wet fog clung to the streets, obscuring the buildings and the barges moving slowly on the Victoria Harbour.
 abbrlink: 0008
 permalink: some_autumn/

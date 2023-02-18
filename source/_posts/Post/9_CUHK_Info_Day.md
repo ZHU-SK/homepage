@@ -7,6 +7,7 @@ tags:
  - HongKong
  - CUHK
  - Leica
+ - Polychrome
 excerpt: Rush Back to 18's
 abbrlink: 0008
 permalink: info_day/

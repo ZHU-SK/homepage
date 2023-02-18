@@ -7,6 +7,7 @@ tags:
  - HongKong
  - Defocus
  - Leica
+  - Polychrome
 excerpt: Hazy is another elegant.
 abbrlink: 0002
 permalink: defocus/

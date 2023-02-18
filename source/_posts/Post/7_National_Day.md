@@ -8,6 +8,7 @@ tags:
  - MongKokEast
  - SheungWan
  - Leica
+ - Polychrome
 excerpt: Happy National Day!
 abbrlink: 0007
 permalink: national_day/

@@ -7,6 +7,7 @@ tags:
  - HongKong
  - Shatin
  - Leica
+ - Polychrome
 excerpt: I prefer Shatin translated as "沙汀" rather than "沙田".
 abbrlink: 0003
 permalink: shatin/

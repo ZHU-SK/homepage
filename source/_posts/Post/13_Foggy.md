@@ -8,6 +8,7 @@ tags:
  - Foggy
  - Chang Chau
  - Leica
+ - Polychrome
 excerpt: Foggy
 abbrlink: 0013
 permalink: foggy/

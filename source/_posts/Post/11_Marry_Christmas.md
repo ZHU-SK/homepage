@@ -7,6 +7,7 @@ tags:
  - HongKong
  - Christmas
  - Leica
+ - Polychrome
 excerpt: Marry Christmas
 abbrlink: 0011
 permalink: mc/
