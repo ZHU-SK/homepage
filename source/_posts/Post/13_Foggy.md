@@ -30,7 +30,7 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 1px;">3933</div>
+    padding: 1px;">Peace</div>
 </center>
 
 <br/>
@@ -43,7 +43,7 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 1px;">Fruit Market</div>
+    padding: 1px;">Sea Fog</div>
 </center>
 
 <br/>
@@ -56,7 +56,7 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 1px;">Effendi</div>
+    padding: 1px;">Store</div>
 </center>
 
 
@@ -71,7 +71,7 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 1px;">Gau Yan Tong</div>
+    padding: 1px;">Boat</div>
 </center>
 
 
@@ -86,7 +86,7 @@ All the photos are captured by Leica M11 with 50mm ƒ/ 1.4 lens, and now availab
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 1px;">Bonham</div>
+    padding: 1px;">Boat (Monochrome)</div>
 </center>
 
 
