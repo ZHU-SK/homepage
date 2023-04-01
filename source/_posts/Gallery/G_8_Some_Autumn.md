@@ -6,7 +6,7 @@ style: photos
 permalink: g_someautumn/
 icon: photo
 excerpt: Some Autumn
-cover: https://s2.loli.net/2022/10/05/UrvBHpfDu9chnRE.jpg
+cover: https://s2.loli.net/2022/10/06/8Xa1LtclJUKNQeD.jpg
 gallery:  
   - src: https://i0.hdslb.com/bfs/album/e14372a53ae8f9ddd9cb880824250be71e248ab5.jpg
   - src: https://i0.hdslb.com/bfs/album/ceb4df39987101ca086a1182ac400530ccfd4b5f.jpg
