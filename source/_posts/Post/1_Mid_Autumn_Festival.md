@@ -297,7 +297,7 @@ Wish you a happy Mid Autumn Festival. All the photos are captured by Leica M11 w
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">Famliy</div>
+    padding: 2px;">Family</div>
 </center>
 
 <br/>

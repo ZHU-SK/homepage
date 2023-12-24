@@ -80,7 +80,7 @@ All the photos are captured by Leica M11 with Summircon-M 50mm ƒ/2 lens, and no
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">One step towards sea</div>
+    padding: 2px;">One Step towards Sea</div>
 </center>
 
 <br/>
